@@ -238,4 +238,4 @@ This repository serves as the official landing page for Ashampoo PowerUp. The so
 **Get the most recent version of Ashampoo PowerUp today!**
 
 ---
-**Last updated:** 2026-10-31 07:50:18 UTC
+**Last updated:** 2026-10-31 14:09:04 UTC
